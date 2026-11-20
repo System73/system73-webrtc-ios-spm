@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "WebRTC",
+    name: "system73-webrtc-ios-spm",
     products: [
         .library(
             name: "WebRTC_iOS",
